@@ -1,0 +1,66 @@
+baseURL = 'https://kmseunh.github.io/'
+author = "Kim Seunghyun"
+copyright = "Copyright © 2023, Kim Seunghyun and the lee.so; all rights reserved."
+paginate = 5
+languageCode = 'en-us'
+DefaultContentLanguage = "en-us"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+# ------------------------------
+title = 'DevSeung'
+theme = "paper"
+
+[params]
+  color = 'linen'
+
+  # header social icons
+  github = 'kmseunh'
+  instagram = 'kmseunh'
+  rss = true
+
+  # home page profile
+  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+  name = 'YOUR_NAME'
+  bio = 'YOUR_BIO'
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = false                       # show monochrome dark mode icon
+  math = true                               # enable KaTeX math typesetting globally
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
