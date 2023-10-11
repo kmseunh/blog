@@ -22,9 +22,15 @@ theme = "paper"
   rss = true
 
   # home page profile
-  avatar = 'https://i.pinimg.com/originals/d3/03/96/d303960c44b99e5b86d361890a53cb9c.png'                 # gravatar email or image url
+  avatar = 'https://i.pinimg.com/originals/d3/03/96/d303960c44b99e5b86d361890a53cb9c.png'
   name = '1133'
   bio = 'Just Wanna Dev'
+
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
   # misc
   disableHLJS = true                        # disable highlight.js
