@@ -1,5 +1,5 @@
 +++
-title = "에러체크"
+title = "에러체크 딱딱딱"
 date = "2023-05-27"
 description = "오류 검사는 필수 사항"
 tags = [
