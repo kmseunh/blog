@@ -5,7 +5,7 @@ description = "ajax 요청 최소화를 고려하지 않아서 생긴 이슈"
 tags = [
     "2023",
     "work",
-    "javascript"
+    "ajax"
 ]
 categories = [
     "blog",
