@@ -1,7 +1,7 @@
 +++
 title = "[Review] 나의 첫 번째 프로젝트"
-date = "2023-07-09"
-description = "Linux 환경에서 원격으로 개발할 경우 iTerm2와 VSCode"
+date = "2023-07-18"
+description = "처음으로 참여한 프로젝트 리뷰"
 tags = [
     "2023",
     "work",
@@ -9,6 +9,7 @@ tags = [
 ]
 categories = [
     "blog",
+    "projects"
 ]
 series = ["Review"]
 +++
