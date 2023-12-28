@@ -18,7 +18,7 @@ theme = "paper"
 
   # header social icons
   github = 'kmseunh'
-  instagram = 'kmseunh'
+  linkedin = 'seunghyun-kim-250b562a6'
   rss = true
 
   # home page profile
@@ -46,9 +46,9 @@ theme = "paper"
     url = "/about/"
     weight = 10
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio/"
     weight = 10
 
 [taxonomies]
@@ -58,18 +58,18 @@ series = "series"
 
 [privacy]
 
-  [privacy.instagram]
-    disabled = false
-    simple = true
+  # [privacy.instagram]
+  #  disabled = false
+  #  simple = true
 
   [privacy.youtube]
     disabled = false
     privacyEnhanced = true
 
-[services]
+# [services]
 
-  [services.instagram]
-    disableInlineCSS = true
+  # [services.instagram]
+  #   disableInlineCSS = true
 
 # robots.txt
 enableRobotsTXT = true
