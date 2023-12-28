@@ -43,12 +43,12 @@ theme = "paper"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "404.html"
     weight = 10
   [[menu.main]]
     identifier = "portfolio"
     name = "Portfolio"
-    url = "/portfolio/"
+    url = "404.html"
     weight = 10
 
 [taxonomies]
