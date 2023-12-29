@@ -1,7 +1,7 @@
 baseURL = 'https://kmseunh.github.io/'
 author = "Kim Seunghyun"
 copyright = "Copyright © 2023, Kim Seunghyun and the lee.so; all rights reserved."
-paginate = 6
+paginate = 5
 languageCode = 'en-us'
 DefaultContentLanguage = "en-us"
 enableInlineShortcodes = true
