@@ -1,7 +1,7 @@
 baseURL = 'https://kmseunh.github.io/'
 author = "Kim Seunghyun"
 copyright = "Copyright © 2023, Kim Seunghyun and the lee.so; all rights reserved."
-paginate = 5
+paginate = 6
 languageCode = 'en-us'
 DefaultContentLanguage = "en-us"
 enableInlineShortcodes = true
@@ -10,7 +10,7 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
-title = 'DevSeung'
+title = 'DevHvun'
 theme = "paper"
 
 [params]
