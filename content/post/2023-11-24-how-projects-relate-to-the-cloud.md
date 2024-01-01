@@ -1,7 +1,7 @@
 +++
 title = "UI 수정지옥"
-date = "2023-10-19"
-description = "2주 동안 UI 수정만 했다.."
+date = "2023-11-24"
+description = "프로젝트와 클라우드 연관성"
 tags = [
     "2023",
     "work",
