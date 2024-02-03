@@ -28,8 +28,9 @@ series = ["Memoirs"]
 생각보다 일찍 도착해서 출입증을 받으려고 했는데 노트북의 현재 사용 메모리와 사용 가능 메모리를 적어야 했다. <br> byte 단위로 표시하려면 터미널 명령어로 <span style='color: #2D3748; background-color: #fff5b1'>df -b</span> 를 입력하면 된다. <br> (5분 동안 몰라서 헤맸던 것은 안 비밀..)
 
 우여곡절 회의실에 들어갔는데 예상치 못한 상황에 굉장히 당황스러웠다. <br> 회의실에는 대략 12명 정도의 직원분들이 계셨고 그 사이에 나랑 대표님은 가벼운 인사와 함께 조심스레 자리에 앉았다. <br> (아무 일도 없었지만 압도당하는 기분..)
-<p align="center"><img src="https://github.com/kmseunh/react-quiz/assets/105186724/7ecf9cc1-47fe-40ef-8f7f-97fbd375a005" width="500"></p>
-<hr>
+<p align="center"><img src="https://github.com/kmseunh/react-memo/assets/105186724/5609625c-17dc-4c76-b7cb-f4cdb350cb3f" width="500"></p>
+
+&nbsp;
 
 ## 열심히 경청하는 것도 회의다
 
