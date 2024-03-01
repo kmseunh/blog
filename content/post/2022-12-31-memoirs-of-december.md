@@ -18,6 +18,8 @@ series = ["Memoirs"]
 
 내년 계획을 살짝 세워봤는데 거창한 목표보다는 조금의 여유가 있는 스케줄을 지향하려 한다. <br> 건강도 좀 챙기고.. <br> 그래도 6월에 2살 어려지니까 아직 괜찮을 수도..?
 
+<p align="center"><img src="https://github.com/kmseunh/blog/assets/105186724/0c7e8a9a-2c93-4a7d-a060-29b7e06c301a" width="500"></p>
+
 <!--more-->
 
 ## 아 저는 이런 사람입니다
