@@ -19,6 +19,7 @@ series = ["Memoirs"]
 (되겠냐고) <br>
 
 예상치 못한 상황들이 생겨서.. 네 그렇게 됐습니다~
+
 <p align="center"><img src="https://github.com/kmseunh/blog/assets/105186724/1b206fc8-99d1-49a0-adc0-8f4c24b2ac1a" width="500"></p>
 
 <!--more-->
