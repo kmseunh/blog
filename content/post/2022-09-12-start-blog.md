@@ -49,7 +49,7 @@ series = ["First Post"]
 
 ## GitHub 블로그를 선택한 이유
 
-어떤 플랫폼을 사용할까 고민을 하다가 GitHub로 블로그를 운영할 수 있다는 것을 알게 되었다. <br> 개발자라면 GitHub는 필수기도 하고 Git과 GitHub에 대한 공부도 할 수 있지 않을까 하는 생각이 들었다. <br> 블로그를 생성하던 중  **submodule** 에러 때문에 삽질을 좀 했지만 다행히 <span style='color: #2D3748; background-color: #fff5b1'>git submodule update --init --force</span> 로 간단하게 에러를 해결했다. <br> (물론 하루 종일 걸렸지만,,,, 좋았다면 오케입니다.)
+어떤 플랫폼을 사용할까 고민을 하다가 GitHub로 블로그를 운영할 수 있다는 것을 알게 되었다. <br> 개발자라면 GitHub는 필수기도 하고 Git과 GitHub에 대한 공부도 할 수 있지 않을까 하는 생각이 들었다. <br> 블로그를 생성하던 중  **submodule** 에러 때문에 삽질을 좀 했지만 다행히 <span style='color: #2D3748; background-color: #fff5b1'>&nbsp;git submodule update --init --force&nbsp;</span> 로 간단하게 에러를 해결했다. <br> (물론 하루 종일 걸렸지만,,,, 좋았다면 오케입니다.)
 
 <hr>
 
