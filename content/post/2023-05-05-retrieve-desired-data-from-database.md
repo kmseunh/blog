@@ -25,13 +25,46 @@ series = ["Memoirs"]
 
 ## 무수히 이어진 SQL 쿼리문
 
-처음 DB 쪽 파이썬 코드를 봤을 때 당황스러웠다.
+처음 백엔드 쪽 파이썬 코드를 봤을 때 당황스러웠다.
 
 특정 함수의 stmt 변수에 SQL 쿼리문이 담겨 있고, 해당 쿼리를 실행하여 결괏값을 변수에 저장하는 Python 코드들이었는데 우선 SQL 쿼리문 부터 굉장히 길고 복잡해 보였다.
 
-아래는 Python 코드 중 하나의 쿼리문의 구조를 나타낸 코드이다.
+아래는 Python 코드 중 대시보드를 조회하는 쿼리문의 구조를 나타낸 코드이다.
 
-<script src="https://gist.github.com/kmseunh/3ec5eeabc8706d354ba0f59eed57714a.js"></script>
+```sql
+SELECT 
+    type, 
+    IFNULL(group2, '전체') AS group2, 
+    cycle, 
+    b_date, 
+    AVG(column6) AS avg_column6, 
+    AVG(column7) AS avg_column7, 
+    SUM(column8) AS sum_column8, 
+    SUM(column9) AS sum_column9 
+FROM 
+    table_name 
+WHERE 
+    type = '타입이름 1' 
+    AND (
+        b_date = '%s' 
+        OR (
+            b_date BETWEEN DATE_FORMAT(
+                LAST_DAY(
+                    DATE_SUB('%s', INTERVAL 1 MONTH)
+                ), 
+                '%Y-%m-01'
+            )
+            AND LAST_DAY(
+                DATE_SUB('%s', INTERVAL 1 MONTH)
+            )
+        )
+    ) 
+GROUP BY 
+    type, 
+    group2, 
+    cycle, 
+    b_date;
+```
 
 <br>
 위 쿼리문은 다음과 같은 기능을 수행한다.
@@ -56,7 +89,7 @@ Python 코드를 보고 나도 모르게 감탄해버렸다.
 
 단순하게 생각하면 '_SQL 쿼리문을 실행하여 결과 값을 변수에 저장한 후, json_data의 값을 기반으로 데이터베이스에서 쿼리를 실행하여 결과를 반환한다._’ 라고 할 수 있다. <br> SQL 문법을 정확히 이해하고 사용할 줄 알아야 원하는 데이터를 가져올 수 있고, 그래야 결과를 반환하기 위한 파이썬 코드를 구현할 수 있을 것 같다. <br> (넓게는 2가지 부족한 부분을 채워야 하고 구체적으로 들어가면…)
 
-<br>
+<hr>
 
 매일매일 부족한 부분을 발견하면서 해야 할 공부가 쌓여가는데, 배우는 내용도 많아지고 있다. <br> 특히 DB는 내가 좋아한다고만 하고 제대로 공부해 보려 하지 않았기 때문에 더 어렵다고 느껴진다.
 
