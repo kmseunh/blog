@@ -36,13 +36,50 @@ series = ["Memoirs"]
 
 항상 일정 부분 개발을 완료하거나 이슈사항이 생기면 대표님과 함께 동료검토를 한다. <br> 그러면서 코드 리뷰도 하는 경우도 있는데 한번은 `if ~ else` 문이 범벅이거나 계속 코드를 나열해가면서 데이터를 필터링하는 내 코드를 `for` 문으로 간략하게 리팩토링을 해주셨다.
 
-### 수정 전
+### 수정 전 예시
 
-<script src="https://gist.github.com/kmseunh/aec476d255d2b4e556b72c6f86878fd7.js"></script>
+```js
+function processData(data) {
+    let result = '';
+    if (data === 'A') {
+        result = 'Apple';
+    } else if (data === 'B') {
+        result = 'Banana';
+    } else if (data === 'C') {
+        result = 'Cherry';
+    } else if (data === 'D') {
+        result = 'Date';
+    } else if (data === 'E') {
+        result = 'Elderberry';
+    } else {
+        result = 'Unknown';
+    }
+    return result;
+}
+```
 
-### 수정 후
+### 수정 후 예시
 
-<script src="https://gist.github.com/kmseunh/72f37079e5362a99b21020e5f5fcb193.js"></script>
+```js
+// for 문을 사용한 코드
+function processData(data) {
+    const dataMap = {
+        'A': 'Apple',
+        'B': 'Banana',
+        'C': 'Cherry',
+        'D': 'Date',
+        'E': 'Elderberry'
+    };
+    let result = 'Unknown';
+    for (const key in dataMap) {
+        if (data === key) {
+            result = dataMap[key];
+            break;
+        }
+    }
+    return result;
+}
+```
 
 _확실히 가독성도 높아지고 간단해보인다._
 
