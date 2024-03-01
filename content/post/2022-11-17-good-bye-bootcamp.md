@@ -14,6 +14,8 @@ series = ["Memoirs"]
 
 올해 5월부터 11월까지 6개월 정도의 부트 캠프를 다니고 수료했다. <br> 코딩의 코자도 모르는 비전공자다 보니 많은 우여곡절이 있었는데, 나와 비슷한 생각을 하거나 상황인 사람들에게 내 경험을 말하고 싶었고 도움이 되지 않을까 해서 공유해 보려고 한다.
 
+<p align="center"><img src="https://github.com/kmseunh/blog/assets/105186724/63dbc0ec-ce2f-428e-bb7a-5f8ddbcec04e" width="450"></p>
+
 <!--more-->
 
 ## 부트캠프를 선택한 이유?
