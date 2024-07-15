@@ -26,6 +26,21 @@ theme = "paper"
   name = '1020'
   bio = 'Just Wanna Dev'
 
+  # giscus 설정
+  [params.giscus]
+    repo = "kmseunh/kmseunh.github.io"
+    repoId = "R_kgDOKefbLg"
+    category = "Comments"
+    categoryId = "DIC_kwDOKefbLs4Cgyq5"
+    mapping = "pathname"
+    strict = "0"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "bottom"
+    theme = "transparent_dark"
+    lang = "ko"
+    loading = "anonymous"
+
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
   [markup.goldmark]
