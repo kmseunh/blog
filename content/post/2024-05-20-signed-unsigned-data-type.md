@@ -16,7 +16,7 @@ series = ["Memoirs"]
 항상 출근하면 첫 번째로 하는 일은 대시보드 페이지에 접속해 어제와 현재의 각 공장별 데이터를 확인하여 이상이 없는지 점검하는 것이다.<br>
 한동안 이상이 없었던 그래프가 지난주 금요일 데이터만 기하급수적으로 높게 치솟았고, SCADA에서 받아오는 데이터가 너무 높게 나오는 현상이 발생했다.
 
-<p align="center"><img src="https://github.com/kmseunh/java-study/assets/105186724/b008d927-9053-4248-9bcf-d5cb87b922ec" width="450"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/fecc2a85-8bc1-44de-b4f7-68601dc4ff8e" width="450"></p>
 
 <!--more-->
 
