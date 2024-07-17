@@ -58,7 +58,7 @@ theme = "paper"
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "404.html"
+    url = "https://thundering-ursinia-ede.notion.site/62c63b5726ac4e269be8c08e97d6e0eb?pvs=4"
     weight = 10
   [[menu.main]]
     identifier = "portfolio"
