@@ -4,13 +4,13 @@ date = "2023-05-09"
 description = "다양한 그래프 만들어야 하는 이슈"
 tags = [
     "2023",
-    "work",
-    "graph"
+    "plotly",
+    "issue"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 프로그래밍을 하다 보면 그래프를 작성해야 하는 상황이 많다. <br> 학생 때 수학 문제를 풀다가 그래프가 나오는 문제가 있으면 완전 땡큐였는데, 프로그래밍에서 그래프를 만나면 그 정도는 아닌 것 같다.

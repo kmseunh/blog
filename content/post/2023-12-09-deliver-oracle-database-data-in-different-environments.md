@@ -4,13 +4,13 @@ date = "2023-12-09"
 description = "서로 다른 환경에서 오라클 데이터베이스 전달 시 발생하는 문제와 해결 방법"
 tags = [
     "2023",
-    "work",
-    "blog",
+    "database",
+    "oracle
 ]
 categories = [
-    "blog",
+    "indiv"
 ]
-series = ["Memoirs"]
+series = ["Study"]
 +++
 
 대시보드 데이터를 생성하는 여러 가지 방법 중 하나가 상대 서버와 우리 서버에 같은 형태의 오라클 DB로 전달해 주는 방법이다. <br>

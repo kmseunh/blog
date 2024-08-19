@@ -4,13 +4,12 @@ date = "2024-02-18"
 description = "데이터를 DB에 저장할 때 테이블 구조를 잘 보자"
 tags = [
     "2024",
-    "work",
-    "blog",
+    "database"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 기존에 진행한 프로젝트에 계정 관리 페이지를 만들어 달라는 요청이 있었다. <br>

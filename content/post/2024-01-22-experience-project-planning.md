@@ -4,13 +4,12 @@ date = "2024-01-22"
 description = "기획은 쉽지 않았다"
 tags = [
     "2024",
-    "work",
-    "blog",
+    "ui/ux"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 UI/UX기획은 소프트웨어 또는 웹 애플리케이션을 디자인할 때 매우 중요한 단계이다. <br>

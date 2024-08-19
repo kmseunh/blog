@@ -4,12 +4,12 @@ date = "2023-04-28"
 description = "코드를 짤 때 가독성을 고려하지 않아서 생긴 이슈"
 tags = [
     "2023",
-    "work",
+    "issue"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 어느 날 개발자는 항상 모든 일에 생각을 해야 한다는 말을 들었다.

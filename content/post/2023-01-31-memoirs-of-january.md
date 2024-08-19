@@ -4,10 +4,10 @@ date = "2023-01-31"
 description = "2023년 1월 회고록"
 tags = [
     "2023",
-    "blog",
+    "daily"
 ]
 categories = [
-    "blog",
+    "indiv"
 ]
 series = ["Memoirs"]
 +++

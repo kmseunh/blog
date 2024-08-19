@@ -4,13 +4,12 @@ date = "2024-06-24"
 description = "좌충우돌 권한관리 기능 구현하기"
 tags = [
     "2024",
-    "work",
-    "blog",
+    "impl"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 매일 데이터 집계 로직을 작성하고 검증하는 작업을 주로 하던 중, 프로젝트에서 권한 관리 기능이 필요하게 되었다. <br>

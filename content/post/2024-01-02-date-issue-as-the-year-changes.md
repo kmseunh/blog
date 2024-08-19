@@ -4,13 +4,12 @@ date = "2024-01-02"
 description = "해가 바뀌면서으로 생기는 날짜 이슈"
 tags = [
     "2024",
-    "work",
-    "blog",
+    "issue"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 새해가 되면서 기존에 진행했던 프로젝트의 `Date` 이슈가 우수수 쏟아졌다. <br>

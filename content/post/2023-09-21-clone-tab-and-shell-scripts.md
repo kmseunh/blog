@@ -4,13 +4,13 @@ date = "2023-09-21"
 description = "#!/bin/sh가 의미하는 것"
 tags = [
     "2023",
-    "work",
-    "blog",
+    "crontab",
+    "linux"
 ]
 categories = [
-    "blog",
+    "indiv"
 ]
-series = ["Memoirs"]
+series = ["Study"]
 +++
 
 크론탭은 리눅스 시스템에서 주기적으로 작업을 실행할 수 있게 해주는 유용한 도구이다.<br>

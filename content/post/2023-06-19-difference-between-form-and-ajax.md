@@ -4,13 +4,12 @@ date = "2023-06-19"
 description = "Form과 AJAX의 차이점을 이해해야 한다."
 tags = [
     "2023",
-    "work",
-    "ajax",
+    "ajax"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 웹 개발에서 form과 Ajax는 사용자와 상호작용하고 데이터를 전송하는 데 중요한 요소이다. <br> 그러나 이러한 방법들을 제대로 이해하지 못하고 개발하는 것은 문제와 위험성을 야기할 수 있다.

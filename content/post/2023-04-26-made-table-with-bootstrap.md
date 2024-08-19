@@ -4,13 +4,12 @@ date = "2023-04-26"
 description = "부트스트랩을 사용해서 테이블 만든 후기"
 tags = [
     "2023",
-    "work",
-    "bootstrap",
+    "bootstrap"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 기존 웹 페이지에 있던 테이블의 UI를 수정해야 하는 작업을 요청받았다. <br> 이전 테이블은 테이블의 크기나 폰트가 작아서 잘 보이지 않아 불편하다는 이유였다.

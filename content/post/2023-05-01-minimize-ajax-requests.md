@@ -4,13 +4,13 @@ date = "2023-05-01"
 description = "ajax 요청 최소화를 고려하지 않아서 생긴 이슈"
 tags = [
     "2023",
-    "work",
-    "ajax"
+    "ajax",
+    "issue"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 Ajax는 `Asynchronous JavaScript and XML`의 약자로, 웹 페이지에서 서버와 비동기적으로 데이터를 교환하면서 웹 페이지를 동적으로 업데이트하는 기술이다. <br> Ajax를 사용하면 페이지 이동 없이도 필요한 부분만 업데이트할 수 있으므로 UX를 개선할 수 있다.

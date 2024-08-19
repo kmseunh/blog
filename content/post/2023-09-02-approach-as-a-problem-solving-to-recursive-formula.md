@@ -4,13 +4,12 @@ date = "2023-09-02"
 description = "문제 해결의 점화식적 사고로, 반복되는 문제에 효과적으로 대응하기"
 tags = [
     "2023",
-    "work",
-    "blog",
+    "issue"
 ]
 categories = [
-    "blog",
+    "work",
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 프로젝트에서 문제가 발생하면 나는 항상 발생한 문제에 대응하여 해결책을 찾는 데 집중한다. <br>

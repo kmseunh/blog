@@ -4,13 +4,12 @@ date = "2024-03-19"
 description = "김승현이 세션을 생성하고 db에 저장한 사건이다."
 tags = [
     "2024",
-    "work",
-    "blog",
+    "session"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 > 김승현이 SpringBoot로 작업하면서 로그인 시 세션을 생성할 때 DB에 저장해버린 사건을 말한다.

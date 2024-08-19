@@ -3,13 +3,13 @@ title = "기술 블로그를 시작하면서"
 date = "2022-09-12"
 description = "기술 블로그를 시작하게 된 이유 및 계획 정리"
 tags = [
-    "blog",
-    "git",
+    "2022",
+    "first"
 ]
 categories = [
-    "blog",
+    "indiv"
 ]
-series = ["First Post"]
+series = ["Memoirs"]
 +++
 
 블로그 첫 포스팅은 개발 또는 코딩이라는 주제로 블로그를 시작한 이유, 방향성과 현재 나의 생각, 현실에 대해 적어보고자 한다.

@@ -4,13 +4,12 @@ date = "2024-07-31"
 description = "JSP Spring을 사용한 프로젝트 참여 경험 기록"
 tags = [
     "2024",
-    "work",
-    "blog",
+    "start"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 이번 달부터 새로운 프로젝트에 참여하게 되었다. <br> 프로젝트는 규모가 제법 크고, 팀원들도 많아서 내 역할이 아주 크지는 않지만, 처음부터 끝까지 모든 과정에 관여할 수 있는 기회를 얻게 되어 매우 기대되고 설레는 마음으로 참여하는 중이다. <br>

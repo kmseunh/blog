@@ -4,13 +4,13 @@ date = "2023-07-09"
 description = "Linux 환경에서 원격으로 개발할 경우 iTerm2와 VSCode"
 tags = [
     "2023",
-    "work",
     "linux",
+    "tool"
 ]
 categories = [
-    "blog",
+    "indiv"
 ]
-series = ["Memoirs"]
+series = ["Study"]
 +++
 
 리눅스 환경에서 원격 접속으로 개발하는 경우, 효율적인 작업 환경을 선택하는 것은 매우 중요하다.

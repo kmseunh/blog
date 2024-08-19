@@ -3,11 +3,11 @@ title = "갯바위... 부트캠프.. (Good Bye 라는 뜻)"
 date = "2022-11-17"
 description = "부트캠프를 6개월 동안 다닌 후기"
 tags = [
-    "bootcamp",
-    "blog",
+    "2022",
+    "bootcamp"
 ]
 categories = [
-    "blog",
+    "indiv"
 ]
 series = ["Memoirs"]
 +++

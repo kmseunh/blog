@@ -4,13 +4,12 @@ date = "2024-01-30"
 description = "JavsScript로 화면 그렸을 때 문제점"
 tags = [
     "2024",
-    "work",
-    "blog",
+    "javascript"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 평소에는 HTML로 화면을 그리는 편인데, 오늘 처음으로 JavsScript로 도전하고 싶은 생각이 들었다. <br>

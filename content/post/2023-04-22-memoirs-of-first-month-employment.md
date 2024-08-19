@@ -4,13 +4,12 @@ date = "2023-04-22"
 description = "회사를 다니고 1개월차 회고록"
 tags = [
     "2023",
-    "work",
-    "blog",
+    "first"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 현재 나는 작은 IT 회사에서 프리랜서로 일을 하고 있다. <br>

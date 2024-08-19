@@ -4,13 +4,12 @@ date = "2023-10-19"
 description = "2주 동안 UI 수정만 했다.."
 tags = [
     "2023",
-    "work",
-    "blog",
+    "ui/ux"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 프로젝트를 진행하기 전 개발하기로 한 대시보드는 사무용 대시보드 한 개였다. <br>

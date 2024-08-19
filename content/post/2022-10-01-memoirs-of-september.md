@@ -4,10 +4,10 @@ date = "2022-10-01"
 description = "2022년 9월 회고록"
 tags = [
     "2022",
-    "blog",
+    "bootcamp"
 ]
 categories = [
-    "blog",
+    "indiv"
 ]
 series = ["Memoirs"]
 +++

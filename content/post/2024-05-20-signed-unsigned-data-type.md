@@ -4,13 +4,12 @@ date = "2024-05-21"
 description = "테이블 값 오류 해결하기"
 tags = [
     "2024",
-    "work",
-    "blog",
+    "database"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 항상 출근하면 첫 번째로 하는 일은 대시보드 페이지에 접속해 어제와 현재의 각 공장별 데이터를 확인하여 이상이 없는지 점검하는 것이다.<br>

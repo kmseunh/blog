@@ -4,12 +4,12 @@ date = "2023-05-14"
 description = "업무 이해도의 중요성을 배운 이슈"
 tags = [
     "2023",
-    "work",
+    "issue"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 프로젝트를 진행할 때 업무 이해도는 매우 중요하다.

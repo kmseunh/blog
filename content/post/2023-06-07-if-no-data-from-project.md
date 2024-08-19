@@ -4,13 +4,13 @@ date = "2023-06-07"
 description = "프로젝트에 사용 가능한 데이터가 없는 경우"
 tags = [
     "2023",
-    "work",
-    "error",
+    "data",
+    "issue"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 프로젝트를 진행할 때 중요한 요소 중 하나는 충분한 데이터를 확보하는 것이다. <br> 그러나 현실적인 이유로 인해 프로젝트를 위한 충분한 데이터를 확보하기 어려운 상황이 발생할 수 있다.

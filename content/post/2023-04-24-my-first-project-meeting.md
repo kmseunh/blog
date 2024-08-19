@@ -4,13 +4,12 @@ date = "2023-04-24"
 description = "처음으로 프로젝트 미팅에 나간 후기"
 tags = [
     "2023",
-    "work",
-    "blog",
+    "meeting"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 프로젝트를 진행하려면 많은 과정을 거쳐야 한다.

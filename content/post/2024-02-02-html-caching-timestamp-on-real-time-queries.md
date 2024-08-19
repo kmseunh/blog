@@ -4,13 +4,12 @@ date = "2024-02-02"
 description = "실시간 조회할 때 html 캐싱 timestamp"
 tags = [
     "2024",
-    "work",
-    "blog",
+    "timestamp"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 실시간으로 화면을 보여주는 기능을 구현해야 해서 개발을 하고 있었는데 브라우저를 리프레시만 하는 간단한 기능이라 크게 어려움은 없었다. <br>

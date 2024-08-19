@@ -4,13 +4,12 @@ date = "2024-04-23"
 description = "맥에서 서버에 파일 업로드 하기"
 tags = [
     "2024",
-    "work",
-    "blog",
+    "sftp"
 ]
 categories = [
-    "blog",
+    "work",
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 추가 개발을 위한 개발 환경을 구축하고 있었는데, 새로운 테이블이 필요해서 다른 서버의 테이블을 가져와야 하는 상황이 발생했다. <br>

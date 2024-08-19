@@ -4,13 +4,13 @@ date = "2023-05-27"
 description = "오류 검사는 필수 사항"
 tags = [
     "2023",
-    "work",
-    "error",
+    "log",
+    "issue"
 ]
 categories = [
-    "blog",
+    "work",
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 코드를 작성하다 보면 밥 먹듯이 에러가 발생하지만, 원인 모를 에러를 마주치면 하루 종일 또는 그 이상이 걸려도 해결하지 못할 때가 있다. <br>

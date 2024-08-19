@@ -4,13 +4,12 @@ date = "2023-08-10"
 description = "첫 실무 프로젝트를 쉽게 본 코린이.."
 tags = [
     "2023",
-    "work",
-    "blog",
+    "issue"
 ]
 categories = [
-    "blog",
+    "work",
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 프로젝트를 진행하기 전에는 개발에만 집중하면 무난하게 흘러갈 줄 알았다. <br> 이 생각은 정확히 업무 메일을 받은 지 10분 만에 산산조각 나버렸다. <br> (근거 없는 자신감은 저를 불안하게 해요,,)

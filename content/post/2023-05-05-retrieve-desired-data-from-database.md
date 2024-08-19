@@ -4,13 +4,13 @@ date = "2023-05-05"
 description = "데이터베이스에서 원하는 데이터 검색 이슈"
 tags = [
     "2023",
-    "work",
-    "database"
+    "database",
+    "issue"
 ]
 categories = [
-    "blog",
+    "work"
 ]
-series = ["Memoirs"]
+series = ["Worklog"]
 +++
 
 데이터베이스에는 프로젝트에 필요한 모든 데이터들이 존재한다. <br> 저장된 데이터들을 그대로 사용하는 경우도 있고 필요한 컬럼들을 가져오거나 데이터를 합치거나 다양하게 수정해서 원하는 데이터로 변환한 후 사용한다.

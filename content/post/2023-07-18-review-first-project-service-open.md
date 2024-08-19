@@ -4,14 +4,12 @@ date = "2023-07-18"
 description = "처음으로 참여한 프로젝트 리뷰"
 tags = [
     "2023",
-    "work",
-    "review",
+    "review"
 ]
 categories = [
-    "blog",
-    "projects"
+    "work"
 ]
-series = ["Review"]
+series = ["Worklog"]
 +++
 
 지난 3월에 처음으로 실무 프로젝트에 참여하고 약 4개월 만에 프로젝트를 서비스하게 되었다. <br> 원래는 훨씬 전에 서비스를 했어야 하는데 진행하던 프로젝트에 추가 개발이 생겨서 조금 길어지게 되었다.

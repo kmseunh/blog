@@ -4,13 +4,12 @@ date = "2023-08-21"
 description = "데이터가 늘어날수록 처리를 빠르게 해야한다"
 tags = [
     "2023",
-    "work",
-    "blog",
+    "data"
 ]
 categories = [
-    "blog",
+    "indiv"
 ]
-series = ["Memoirs"]
+series = ["Study"]
 +++
 
 주간 회의 시간에 대표님께서 항상 말씀하시는 것이 있다. <br>

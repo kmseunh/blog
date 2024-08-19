@@ -4,13 +4,12 @@ date = "2023-11-24"
 description = "프로젝트와 클라우드 연관성"
 tags = [
     "2023",
-    "work",
-    "blog",
+    "cloud"
 ]
 categories = [
-    "blog",
+    "indiv"
 ]
-series = ["Memoirs"]
+series = ["Study"]
 +++
 
 회의 시간에 클라우드에 대한 얘기가 나왔는데 잘 이해하지 못했다. <br>
