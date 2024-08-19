@@ -20,7 +20,7 @@ series = ["Worklog"]
 
 따라서 이번 글에서는 점화식적 사고를 도입하여 문제를 해결하는 방법에 대해 알아보려 한다.
 
-<p align="center"><img src="https://github.com/kmseunh/problem-solving-python/assets/105186724/9a349e82-1fb2-4189-ba22-81f08cd2f909" width="500"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/ddcd98d6-9ce6-422c-af9c-e5f66620b09f" width="400"></p>
 
 <!--more-->
 
@@ -36,7 +36,7 @@ series = ["Worklog"]
 (말은 쉽지...)
 <br>
 
-<p align="center"><img src="https://github.com/kmseunh/problem-solving-python/assets/105186724/71c29dd2-137e-44c7-b30d-291fdbc990ca" width="450"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/5d8bed71-5b80-4cad-b4a6-ad3d1a7f1da0" width="400"></p>
 
 이러한 방식은 문제의 본질을 깊이 이해하고, 비슷한 문제들에 대한 효과적인 해결책을 만들어내는 데 도움이 된다고 한다.<br>
 한 번의 문제 해결을 통해 비슷한 상황에 대한 해결책을 만들어냄으로써 효율성을 높일 수 있다.

@@ -1,5 +1,5 @@
 +++
-title = "데이터 비만에서 살아남기"
+title = "데이터 증가 시 대처 방법"
 date = "2023-08-21"
 description = "데이터가 늘어날수록 처리를 빠르게 해야한다"
 tags = [
@@ -23,19 +23,17 @@ series = ["Study"]
 
 따라서 이번 글에서는 위 두가지에 대해 정리해보려 한다.
 
-<p align="center"><img src="https://github.com/kmseunh/css-design-tools/assets/105186724/e08f6238-1cd3-4964-88a4-ec7c61daf13d" width="450"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/c8600d59-8178-419c-ad4f-5b71930f234c" width="400"></p>
 
 <!--more-->
 
-<br>
-
-##
+## 일라스틱 서치
 
 일라스틱 서치(Elasticsearch)와 키바나(Kibana)는 주로 데이터 분석 및 시각화를 위해 사용되는 오픈 소스 소프트웨어라고 한다. <br>
 두 제품은 주로 로그 및 이벤트 데이터와 같은 대량의 데이터를 저장, 검색 및 시각화하기 위해 설계되었고, Logstash라는 다른 오픈 소스 도구와 결합하여 사용될 때 전체적인 솔루션을 형성한다고 한다.
 >> 이들은 일반적으로 ELK 스택이라고도 부른다.
 
-## 일라스틱 서치의 역할
+### 일라스틱 서치의 역할
 
 1. 빠른 검색 및 분석 엔진 <br>
 

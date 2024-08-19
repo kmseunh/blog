@@ -21,7 +21,7 @@ series = ["Study"]
 
 따라서 이번 글에는 다양한 환경에서 스크립트가 어떻게 작동하는지 알아보려 한다.
 
-<p align="center"><img src="https://github.com/kmseunh/css-design-tools/assets/105186724/ed89e9fc-fbc6-4276-9047-259dc857bb5a" width="450"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/10075c6b-a1e4-41e1-ac63-235066f56a09" width="400"></p>
 
 <!--more-->
 

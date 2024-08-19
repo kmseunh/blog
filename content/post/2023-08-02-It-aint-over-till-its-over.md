@@ -18,16 +18,16 @@ series = ["Worklog"]
 
 <!--more-->
 
-<br>
-
 ## 회의하기 어렵다
 
 회의 장소가 청주이기 때문에 회사 앞 광명역에서 KTX를 타고 갔다. <br> 기차 + 택시로 넉넉하게 1시간 30분 정도 걸렸는데 지하철역 택시 줄이 길어서 조금 당황스러웠다. <br> (모든 청주 택시들이 모여있는 듯한..??)
 
 생각보다 일찍 도착해서 출입증을 받으려고 했는데 노트북의 현재 사용 메모리와 사용 가능 메모리를 적어야 했다. <br> byte 단위로 표시하려면 터미널 명령어로 <span style='color: #2D3748; background-color: #fff5b1'>df -b</span> 를 입력하면 된다. <br> (5분 동안 몰라서 헤맸던 것은 안 비밀..)
 
-우여곡절 회의실에 들어갔는데 예상치 못한 상황에 굉장히 당황스러웠다. <br> 회의실에는 대략 12명 정도의 직원분들이 계셨고 그 사이에 나랑 대표님은 가벼운 인사와 함께 조심스레 자리에 앉았다. <br> (아무 일도 없었지만 압도당하는 기분..)
-<p align="center"><img src="https://github.com/kmseunh/react-memo/assets/105186724/5609625c-17dc-4c76-b7cb-f4cdb350cb3f" width="500"></p>
+우여곡절 회의실에 들어갔는데 예상치 못한 상황에 굉장히 당황스러웠다. <br> 회의실에는 대략 12명 정도의 직원분들이 계셨고 그 사이에 나랑 대표님은 가벼운 인사와 함께 조심스레 자리에 앉았다. <br>
+(아무 일도 없었지만 압도당하는 기분..)
+
+<p align="center"><img src="https://github.com/user-attachments/assets/ccec9705-70bf-416e-b3fc-29bb1c9b7227" width="500"></p>
 
 &nbsp;
 
@@ -38,7 +38,7 @@ series = ["Worklog"]
 그래도 차 부장 급분들의 회의에 참여해서 어떻게 이루어지는지 파악할 수 있었고, 처음으로 내가 개발자라고 클라이언트에게 당당하게 소개될 수 있는 자리라 기분이 묘했다. <br> 이 프로젝트가 진행되면서 내가 소통할 분들이기 때문에 많이 어렵겠지만 좋은 인상을 남기려 노력했다. <br> (입은 항상 웃고 있답니다.??)
 <br>
 
-<p align="center"><img src="https://github.com/kmseunh/css-design-tools/assets/105186724/2794ac4a-1a4c-4c38-82a4-5ff5d6963733" width="400"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/5f104158-5146-425d-9b75-37cffccab0be" width="400"></p>
 
 <br>
 

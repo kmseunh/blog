@@ -15,7 +15,7 @@ series = ["Worklog"]
 실시간으로 화면을 보여주는 기능을 구현해야 해서 개발을 하고 있었는데 브라우저를 리프레시만 하는 간단한 기능이라 크게 어려움은 없었다. <br>
 그러나 살짝 쎄한 느낌이 들었는데, 아니나 다를까 실시간으로 업데이트된 내용이 화면에 보여져야 되는데 제대로 전달되지 않는 문제가 생긴 것이다.
 
-<p align="center"><img src="https://github.com/kmseunh/svelte-projects/assets/105186724/91e763ba-b366-4cc7-896f-e60dc173435f" width="400"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/48de88be-d328-4f65-afb3-88c6dddf94e3" width="400"></p>
 
 <!--more-->
 
@@ -24,9 +24,7 @@ series = ["Worklog"]
 업데이트된 데이터가 제대로 보이지 않았던 이유는 캐시 된 파일을 계속 사용하고 있었기 때문이었다. <br>
 현재 분리된 `HTML`, `JS`, `CSS` 파일을 사용하여 웹 페이지를 구성하고 있는데, 브라우저는 이러한 파일을 캐싱 하여 성능을 향상시키고 네트워크 요청을 줄인다고 한다.
 
-<p align="center"><img src="https://github.com/kmseunh/svelte-projects/assets/105186724/5f024231-a459-4102-b6d4-4cb83ac5a0ea" width="400"></p>
-
-&nbsp;
+<p align="center"><img src="https://github.com/user-attachments/assets/a5402f66-b4d6-410a-a1a2-9a83b68db7c0" width="400"></p>
 
 ## 해결방안
 

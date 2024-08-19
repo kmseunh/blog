@@ -20,7 +20,7 @@ series = ["Study"]
 
 따라 이번 글에서는 서로 다른 환경에서 오라클 데이터베이스 전달 시 발생하는 문제에 대한 해결 방법에 대해 알아보려 한다.
 
-<p align="center"><img src="https://github.com/kmseunh/css-design-tools/assets/105186724/31fdd8c2-6343-4b2a-b80f-4f52ee1e61f7" width="450"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/4a2e2b3f-e6eb-4d40-9d3d-c92e05901bf7" width="450"></p>
 
 <!--more-->
 

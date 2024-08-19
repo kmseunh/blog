@@ -59,7 +59,7 @@ Develop tool도 제대로 쓸 줄 모르면서, DB에 있는 데이터가 어떻
 
 다이어리에 적은 메모는 노션에 따로 모아서 저장한다. <br> 구글링이나 Chat GPT에게 물어보면서 이해하고 정리를 하면 나중에 알아보기 편할 것 같아서 시작하게 되었다. <br> (Chat GPT야 도와줘~)
 
-<br>
+<p align="center"><img src="https://github.com/user-attachments/assets/626eabeb-425c-4f98-a724-9ef59526e18f" width="500"></p>
 
 ### 2. 자투리 시간 활용하기
 

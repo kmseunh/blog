@@ -92,8 +92,6 @@ $('#addBtn').on('click', function() {
 긴 주소를 처리할 수 있기 때문이라고 한다.
 ```
 
-&nbsp;
-
 ### JavaScript 코드 수정
 
 ```js
@@ -109,8 +107,6 @@ if (!USERID || !PASSWRD || !NAME || !EMAIL) {
 ```
 
 `if` 문을 추가하여 사용자가 입력 필드를 채우지 않은 채로 제출하려고 할 때 발생하는 예외 상황을 처리하도록 했다.
-
-&nbsp;
 
 ### Python 코드 수정
 

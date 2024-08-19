@@ -17,7 +17,7 @@ series = ["Study"]
 
 따라서 이번 글에는 프로젝트와 클라우드의 연관성에 대해 알아보려 한다.
 
-<p align="center"><img src="https://github.com/kmseunh/css-design-tools/assets/105186724/d4612e91-6c84-4921-b811-14a435a94d74" width="500"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/53a163ef-b46e-4231-b306-30033eaf8a1d" width="500"></p>
 
 <!--more-->
 

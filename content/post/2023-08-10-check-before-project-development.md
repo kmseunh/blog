@@ -14,11 +14,9 @@ series = ["Worklog"]
 
 프로젝트를 진행하기 전에는 개발에만 집중하면 무난하게 흘러갈 줄 알았다. <br> 이 생각은 정확히 업무 메일을 받은 지 10분 만에 산산조각 나버렸다. <br> (근거 없는 자신감은 저를 불안하게 해요,,)
 
-<p align="center"><img src="https://github.com/kmseunh/css-design-tools/assets/105186724/b10d883b-46a0-4794-be35-c8a781e98a89" width="500"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/1fe223df-c361-4e36-af63-d4f37f2db818" width="500"></p>
 
 <!--more-->
-
-<br>
 
 ## 이게 다 뭔데
 
@@ -35,7 +33,7 @@ series = ["Worklog"]
 UI는 아예 갈아엎을 수도 있다는 말을 듣고 그런 일은 일어나지 않기를 기도했다. <br>
 (개발자 = 디자이너인가..)
 
-<p align="center"><img src="https://github.com/kmseunh/css-design-tools/assets/105186724/1bf40448-4d29-49b4-95dd-33df53989357" width="500"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/ec0a1575-86e4-4c30-af7d-b071f8cb7d0f" width="400"></p>
 
 <br>
 
