@@ -1,5 +1,5 @@
 +++
-title = "우분투 세팅을 해보자"
+title = "Ubuntu 세팅을 해보자"
 date = "2024-08-20"
 description = "우분투 설정"
 tags = [
