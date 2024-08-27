@@ -96,7 +96,10 @@ cd ngix
 
 # docker-compose.yml 작성
 vi docker-compose.yml
+```
 
+```yaml
+# docker-compose.yml
 version: '3.9'
 services:
   nginx:
@@ -116,13 +119,18 @@ services:
     volumes:
       - ./data/certbot/conf:/etc/letsencrypt
       - ./data/certbot/www:/var/www/certbot
+```
 
+```bash
 # conf 폴더 생성
 mkdir conf
 
 # nginx.conf 파일 작성
 vi conf/nginx.conf
+```
 
+```nginx
+# nginx.conf
 server {
      listen 80;
 
@@ -133,7 +141,9 @@ server {
              root /var/www/certbot;
      } 
 }
+```
 
+```bash
 # docker-compose 실행
 docker-compose -f docker-compose.yml up -d
 
@@ -159,7 +169,7 @@ sudo ./init-letsencrypt.sh
 
 ### HTTPS 적용 및 자동 갱신 설정
 
-```bash
+```nginx
 # nginx.conf 수정
 user nginx;
 
@@ -195,6 +205,8 @@ http {
 
         ssl_certificate /etc/letsencrypt/live/<구매한 도메인>/fullchain.pem;
         ssl_certificate_key /etc/letsencrypt/live/<구매한 도메인>/privkey.pem;
+        ssl_protocols TLSv1.2 TLSv1.3;
+
         include /etc/letsencrypt/options-ssl-nginx.conf;
         ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
 
@@ -209,7 +221,9 @@ http {
         }
     }
 }
+```
 
+```yaml
 # docker-compose.yml 수정
 version: '3.9'
 services:
@@ -223,6 +237,7 @@ services:
       - ./conf/nginx.conf:/etc/nginx/nginx.conf
       - ./data/certbot/conf:/etc/letsencrypt
       - ./data/certbot/www:/var/www/certbot
+    # Nginx 웹 서버를 실행하고 주기적으로 Nginx 설정을 다시 로드하는 명령어
     command: '/bin/sh -c ''while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g "daemon off;"'''
 
   certbot:
@@ -231,8 +246,11 @@ services:
     volumes:
       - ./data/certbot/conf:/etc/letsencrypt
       - ./data/certbot/www:/var/www/certbot
+    # 컨테이너가 실행되는 동안 12시간마다 Certbot을 사용해 SSL 인증서를 갱신하는 무한 루프를 실행하는 명령어
     entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew; sleep 12h & wait $${!}; done;'"
+```
 
+```bash
 # docker compose 실행
 docker-compose -f docker-compose.yml up -d
 
@@ -243,7 +261,7 @@ sudo ./init-letsencrypt.sh
 docker ps
 ```
 
-서버의 디렉토리 구조
+#### 서버의 디렉토리 구조
 
 ```bash
 ~/docker/
