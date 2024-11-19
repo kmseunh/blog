@@ -1,7 +1,7 @@
 +++
-title = "[Review] 나의 첫 번째 프로젝트"
+title = "이프, 프시케 그리고 ... 서비스 오픈"
 date = "2023-07-18"
-description = "처음으로 참여한 프로젝트 리뷰"
+description = "처음으로 참여한 프로젝트 오픈을 하면서..."
 tags = [
     "2023",
     "review"

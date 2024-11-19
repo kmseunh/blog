@@ -4,7 +4,7 @@ date = "2024-07-31"
 description = "JSP Spring을 사용한 프로젝트 참여 경험 기록"
 tags = [
     "2024",
-    "start"
+    "review"
 ]
 categories = [
     "work"
